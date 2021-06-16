@@ -15,12 +15,11 @@ To provide a uniform collection of sales and taxes Tax management is the best ch
 To analyze and manage your organization’s crises Risk management is a good feature of the finance module.
  Reports show you where revenue is generated and where it is not generated. It helps you to understand the financial condition of your company.
 
-
-
 Accounts payable for purchase invoices, credit notes.
 Accounts receivable for sales invoice, credit notes and adjustment.
 Cash management wherefrom payment details are transferred to GL.
 Asset management for transferring depreciation details.
+Cost accounting for allocation of cost.
 Cost accounting for allocation of cost.
 
 
